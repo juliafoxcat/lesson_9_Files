@@ -1,0 +1,7 @@
+{
+  "name":"Spam",
+  "meat": "pork",
+  "weight": 250,
+  "sorts": ["Spicy", "Diet", "Classic"]
+
+}
